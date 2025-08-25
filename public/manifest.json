@@ -1,0 +1,14 @@
+{
+  "name": "FeeLess Trades",
+  "description": "FeeLess Trades is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://6d52faaf-5f51-4bb5-87ab-ba03da6bf8af.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "FeeLess Trades",
+      "description": "FeeLess Trades is a Base Mini App built with Zara.",
+      "url": "https://6d52faaf-5f51-4bb5-87ab-ba03da6bf8af.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
